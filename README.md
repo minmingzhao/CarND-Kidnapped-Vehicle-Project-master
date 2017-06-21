@@ -7,8 +7,8 @@ This repository contains all the code needed to complete the final project for t
 All you will submit is your completed version of `particle_filter.cpp`, which is located in the `src` directory. You should probably do a `git pull` before submitting to verify that your project passes the most up-to-date version of the grading code (there are some parameters in `src/main.cpp` which govern the requirements on accuracy and run time.)
 
 #### Result
-I tested the Particle Filter using term2 simulator. And it successfully locate the vehicle and the simulator displays it is success. 
-[//]: # (Image References)
+I tested the Particle Filter using term2 simulator. And it successfully locate the vehicle and the simulator displays it is success.
+
 [result.png]: ./results/result.png
 
 ![alt text][result.png]
