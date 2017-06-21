@@ -8,7 +8,9 @@ All you will submit is your completed version of `particle_filter.cpp`, which is
 
 #### Result
 I tested the Particle Filter using term2 simulator. And it successfully locate the vehicle and the simulator displays it is success. 
+[//]: # (Image References)
 [result.png]: ./results/result.png
+
 ![alt text][result.png]
 
 ## Project Introduction
